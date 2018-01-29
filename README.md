@@ -1,6 +1,6 @@
 # Awesome Drone [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curates list of awesome Drone resources.
+A curated list of awesome Drone resources.
 
 ## Table of Contents
 
